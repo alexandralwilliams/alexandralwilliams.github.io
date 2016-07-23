@@ -1,6 +1,5 @@
 body {
 	color: black;
-	background: url("http://i.imgur.com/Mi3pF43.jpg?1");
 	background-size: cover;
 	text-align: center;
 	font-size: 28px;
@@ -8,6 +7,12 @@ body {
 }
 header {
 	background-color: rgb(63141199);
+}
+section {
+	background-color: rgb(132941);
+}
+main {
+	background-color: white;
 }
 h1 {
 	color: black;
