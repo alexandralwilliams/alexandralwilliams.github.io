@@ -13,4 +13,8 @@ h1 {
 }
 #slogan {
 	font-style: italic;
+	font-size: 18px;
+}
+h2 {
+	font-size: 14px;
 }
