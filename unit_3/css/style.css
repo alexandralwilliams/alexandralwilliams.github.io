@@ -11,10 +11,10 @@ section {
 	background-color: rgb(132941);
 }
 main {
-	background-color: white;
+	background-color: rgb(132941);
 }
 h1 {
-	color: black;
+	color: white;
 	text-align: center;
 	font-size: 36px;
 }
