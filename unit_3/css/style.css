@@ -1,12 +1,10 @@
 body {
-	color: white;
-	background-size: cover;
 	background-color: rgb(132941); 
 	text-align: center;
 	font-size: 28px;
 	font-family: Avenir; sans-serif;
 }
-header {
+head {
 	background-color: rgb(63141199);
 }
 section {
