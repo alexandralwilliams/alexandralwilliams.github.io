@@ -6,6 +6,9 @@ body {
 	font-size: 28px;
 	font-family: Avenir; sans-serif;
 }
+header {
+	background-color: rgb(63141199);
+}
 h1 {
 	color: black;
 	text-align: center;
