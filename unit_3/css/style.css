@@ -40,6 +40,7 @@ h4 {
 	font-family: PT Serif, cursive;
 	line-length: 10em;
 	width: 30em;
+	text-align: center;
 }
 
 ul {
@@ -56,8 +57,4 @@ a {
 
 img {
 	width: 45%;
-}
-
-#list {
-	text-align: center;
 }
