@@ -28,8 +28,7 @@ h1 {
 h2 {
 	color: black;
 	font-size: .66em;
-	font-family: PT Serif, cursive;
-	line-length: 30em;
+	font-family: "PT Serif", cursive;
 	width: 30 em;
 	text-align: center;
 }
@@ -37,16 +36,14 @@ h2 {
 h4 {
 	color: black;
 	font-size: .5em;
-	font-family: PT Serif, cursive;
-	line-length: 10em;
+	font-family: "PT Serif", cursive;
 	width: 30em;
 	text-align: center;
 }
 
 ul {
 	color: black;
-	font-family: PT Serif, cursive;
-	line-length: 30em;
+	font-family: "PT Serif", cursive;
 	width: 30em;
 	text-align: center;
 }
