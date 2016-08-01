@@ -26,14 +26,18 @@ h2 {
 	color: black;
 	font-size: .66em;
 	font-family: PT Serif, cursive;
+	line-length: 30em;
 }
 h4 {
 	color: black;
 	font-size: .5em;
+	font-family: PT Serif, cursive;
+	line-length: 30em;
 }
 ul {
 	color: black;
 	font-family: PT Serif, cursive;
+	line-length: 30em;
 }
 a {
 	color: inherit;
