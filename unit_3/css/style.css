@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Inconsolata);
 
 body { 
 	text-align: center;
@@ -24,6 +25,7 @@ h1 {
 h2 {
 	color: black;
 	font-size: 18px;
+	font-family: Inconsolata, cursive;
 }
 h4 {
 	color: black;
@@ -31,6 +33,7 @@ h4 {
 }
 ul {
 	color: black;
+	font-family: Inconsolata, cursive;
 }
 a {
 	color: inherit;
