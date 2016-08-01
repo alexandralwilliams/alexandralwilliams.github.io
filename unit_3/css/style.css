@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+
 body { 
 	text-align: center;
 	font-size: 28px;
@@ -8,7 +10,7 @@ body {
 header {
 	background-color: #0D1D29;
 	color: white;
-	font-family: @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+	font-family: "Open Sans Condensed", cursive;
 }
 h1 {
 	color: rgb(132941);
