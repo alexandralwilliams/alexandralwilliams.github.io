@@ -34,6 +34,7 @@ h2 {
 	font-family: PT Serif, cursive;
 	line-length: 30em;
 	width: 30 em;
+	text-align: center;
 }
 h4 {
 	color: black;
@@ -41,12 +42,14 @@ h4 {
 	font-family: PT Serif, cursive;
 	line-length: 10em;
 	width: 30em;
+	text-align: center;
 }
 ul {
 	color: black;
 	font-family: PT Serif, cursive;
 	line-length: 30em;
 	width: 30em;
+	text-align: center;
 }
 a {
 	color: inherit;
