@@ -13,6 +13,11 @@ header {
 	color: white;
 	font-family: "Open Sans Condensed", cursive;
 }
+
+section {
+	width: 30em;
+}
+
 h1 {
 	color: rgb(132941);
 	text-align: center;
