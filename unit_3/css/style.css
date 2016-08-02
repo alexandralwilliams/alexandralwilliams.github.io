@@ -41,11 +41,11 @@ h4 {
 	text-align: center;
 }
 
-/*ul {
+ul {
 	color: black;
 	font-family: "PT Serif", cursive;
 	width: 30em;
-	text-align: center;*/
+	text-align: center;
 }
 
 a {
@@ -56,4 +56,10 @@ a {
 
 img {
 	width: 45%;
+}
+
+footer {
+	color: black;
+	font-family: "PT Serif", cursive;
+	font-size: .5em
 }
