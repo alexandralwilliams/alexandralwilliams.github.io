@@ -45,6 +45,7 @@ p {
 	font-family: "PT Serif", cursive;
 	width: 40em;
 	text-align: center;
+	text-decoration: none;
 }
 
 img {
@@ -59,6 +60,7 @@ img {
 
 nav {
 	color: black;
+	text-size: .5em;
 	text-decoration: none;
 	text-align: center;
 	background-color: #E8C66A;
