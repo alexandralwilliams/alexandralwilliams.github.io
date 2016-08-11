@@ -77,6 +77,12 @@ footer {
 	background-color: #FF957E;
 }
 
+.paragraphs {
+	font-size: .7em;
+	text-align: center;
+	background-color: #FFE2B8;
+}
+
 #one {
 	background-color: #FFE2B8;
 	text-align: center;
