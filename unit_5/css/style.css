@@ -5,6 +5,8 @@ header {
 	background-color: #FFED74;
 	color: white;
 	font-family: "Open Sans Condensed", cursive;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 body {
@@ -42,13 +44,6 @@ h4 {
 	text-align: center;
 }
 
-/*ul {
-	color: black;
-	font-family: "PT Serif", cursive;
-	width: 30em;
-	text-align: center;
-}
-*/
 p {
 	color: black;
 	font-family: "PT Serif", cursive;
@@ -80,4 +75,10 @@ footer {
 	font-family: "PT Serif", cursive;
 	font-size: .5em;
 	background-color: #FF957E;
+}
+
+.paragraphs {
+	font-size: .7em;
+	text-align: center;
+	background-color: #FFE2B8;
 }
