@@ -1,7 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif);
 
+header {
+	background-color: #0D1D29;
+	color: white;
+	font-family: "Open Sans Condensed", cursive;
+}
+
 body {
 	text-align: center;
-	
+	font-size: 28px;
+	font-family: Avenir, sans-serif;
+	background-color: rgb(132941);
 }
