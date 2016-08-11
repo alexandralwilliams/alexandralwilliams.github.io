@@ -35,6 +35,13 @@ ul {
 	text-align: center;
 }
 
+p {
+	color: black;
+	font-family: "PT Serif", cursive;
+	width: 40em;
+	text-align: center;
+}
+
 img {
 	width: 45%;
 }
@@ -55,8 +62,4 @@ footer {
 	color: black;
 	font-family: "PT Serif", cursive;
 	font-size: .5em;
-}
-
-#wrapper {
-	text-align: center;
 }
