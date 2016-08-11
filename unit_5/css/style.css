@@ -42,19 +42,20 @@ h4 {
 	text-align: center;
 }
 
-ul {
+/*ul {
 	color: black;
 	font-family: "PT Serif", cursive;
 	width: 30em;
 	text-align: center;
 }
-
+*/
 p {
 	color: black;
 	font-family: "PT Serif", cursive;
 	width: 40em;
 	text-align: center;
 	text-decoration: none;
+	font-size: .75em;
 }
 
 img {
