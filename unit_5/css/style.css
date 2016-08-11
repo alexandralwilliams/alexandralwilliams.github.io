@@ -22,12 +22,12 @@ h1 {
 
 h2 {
 	text-align: center;
-	color: white;
+	color: black;
 }
 
 h4 {
 	color: black;
-	font-size: .5em;
+	font-size: .75em;
 	font-family: "PT Serif", cursive;
 	width: 30em;
 	text-align: center;
@@ -55,7 +55,6 @@ img {
 #slogan {
 	font-style: italic;
 	font-size: .66em;
-	color: white;
 }
 
 nav {
