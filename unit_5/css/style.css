@@ -20,14 +20,18 @@ h1 {
 	font-size: 1.5em;
 }
 
-#list {
-	text-align: center;
-	color: black;
-}
-
 #about {
 	text-align: center;
 	color: black;
+	font-size: .75em;
+	text-decoration: none;
+}
+
+#list {
+	text-align: center;
+	color: black;
+	font-size: .75em;
+	text-decoration: none;
 }
 
 h4 {
