@@ -99,3 +99,12 @@ footer {
 #two_column {
 	float: left;
 }
+
+.clearfix:after {
+	visibility: hidden;
+	height: 0;
+	font-size: 0;
+	content: " ";
+	display: block;
+	clear: both;
+}
