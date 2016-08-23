@@ -70,6 +70,11 @@ nav {
 	background-color: #E8C66A;
 }
 
+nav a {
+	padding: 2em;
+	margin: auto;
+}
+
 footer {
 	color: black;
 	font-family: "PT Serif", cursive;
