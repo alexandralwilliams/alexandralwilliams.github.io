@@ -1,0 +1,92 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif);
+
+header {
+	background-color: #FFED74;
+	color: white;
+	font-family: "Open Sans Condensed", cursive;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+body {
+	text-align: center;
+	font-size: 28px;
+	font-family: Avenir, sans-serif;
+	background-color: rgb(132941);
+}
+
+h1 {
+	color: rgb(132941);
+	text-align: center;
+	font-size: 1.5em;
+}
+
+#about {
+	text-align: center;
+	color: black;
+	font-size: .75em;
+	text-decoration: none;
+}
+
+#List {
+	text-align: center;
+	color: black;
+	font-size: .65em;
+	text-decoration: none;
+}
+
+h4 {
+	color: black;
+	font-size: .75em;
+	font-family: "PT Serif", cursive;
+	width: 30em;
+	text-align: center;
+}
+
+p {
+	color: black;
+	font-family: "PT Serif", cursive;
+	width: 40em;
+	text-align: center;
+	text-decoration: none;
+	font-size: .75em;
+}
+
+img {
+	width: 45%;
+}
+
+#slogan {
+	font-style: italic;
+	font-size: .66em;
+}
+
+nav {
+	color: black;
+	text-size: .5em;
+	text-decoration: none;
+	text-align: center;
+	background-color: #E8C66A;
+}
+
+footer {
+	color: black;
+	font-family: "PT Serif", cursive;
+	font-size: .5em;
+	background-color: #FF957E;
+}
+
+.paragraphs {
+	font-size: .7em;
+	text-align: center;
+	background-color: #FFE2B8;
+	font-family: "Open Sans Condensed", cursive;
+}
+
+#one {
+	background-color: #FFE2B8;
+	text-align: center;
+	font-size: .65em;
+	font-family: "Open Sans Condensed", cursive;
+}
