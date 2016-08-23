@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Serif);
 
 header {
-	background-color: #FFED74;
+	background-color: #7187AE;
 	color: white;
 	font-family: "Open Sans Condensed", cursive;
 	border: 1px black solid;
@@ -13,7 +13,7 @@ body {
 	text-align: center;
 	font-size: 28px;
 	font-family: Avenir, sans-serif;
-	background-color: rgb(8181159);
+	background-color: rgb(239102);
 }
 
 h1 {
