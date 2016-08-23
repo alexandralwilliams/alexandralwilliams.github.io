@@ -90,3 +90,7 @@ footer {
 	font-size: .65em;
 	font-family: "Open Sans Condensed", cursive;
 }
+
+#two_column {
+	float: left;
+}
