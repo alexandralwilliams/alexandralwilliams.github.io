@@ -83,13 +83,6 @@ footer {
 	background-color: #FF957E;
 }
 
-/*.paragraphs {
-	font-size: .7em;
-	text-align: center;
-	background-color: #FFE2B8;
-	font-family: "Open Sans Condensed", cursive;*/
-}
-
 #one {
 	background-color: #FFE2B8;
 	text-align: center;
@@ -99,6 +92,7 @@ footer {
 
 #two_column {
 	float: left;
+	text-align: center;
 }
 
 .clearfix:after {
