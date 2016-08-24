@@ -108,6 +108,16 @@ h4 {
 	margin: auto;
 }
 
+#left {
+	width: 20em;
+	float: left;
+}
+
+#right {
+	width: 20em;
+	float: left;
+}
+
 .clearfix:after {
 	visibility: hidden;
 	height: 0;
