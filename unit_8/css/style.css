@@ -94,6 +94,8 @@ footer {
 #two_column {
 	float: left;
 	text-align: center;
+	width: 40px;
+	margin: auto;
 }
 
 .clearfix:after {
