@@ -108,3 +108,10 @@ footer {
 	display: block;
 	clear: both;
 }
+
+@media only screen and (max-width: 540px) {
+	nav a {
+		float: none;
+		width: auto;
+	}
+}
