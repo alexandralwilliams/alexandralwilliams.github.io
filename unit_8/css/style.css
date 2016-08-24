@@ -92,10 +92,14 @@ footer {
 }
 
 #two_column {
-	float: left;
 	text-align: center;
-	width: 40px;
+	width: 35em;
 	margin: auto;
+}
+
+#two_column article {
+	width: 20em;
+	float: left;
 }
 
 .clearfix:after {
