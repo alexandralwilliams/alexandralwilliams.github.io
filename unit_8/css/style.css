@@ -102,6 +102,11 @@ footer {
 	float: left;
 }
 
+h4 {
+	width: 20em;
+	margin: auto;
+}
+
 .clearfix:after {
 	visibility: hidden;
 	height: 0;
