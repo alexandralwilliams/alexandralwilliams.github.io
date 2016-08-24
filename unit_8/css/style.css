@@ -97,6 +97,16 @@ footer {
 	margin: auto;
 }
 
+article #left {
+	width: 20em;
+	float: left;
+}
+
+article #right {
+	width: 20em;
+	float: right;
+}
+
 /*#two_column article {
 	width: 10em;
 	float: left;
