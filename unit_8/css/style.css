@@ -136,6 +136,7 @@ h4 {
 @media only screen and (max-width: 430px) {
 	#two_column {
 		width: 20em;
+		margin: auto;
 	}
 }
 
